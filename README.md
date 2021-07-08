@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SNACK%20655&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SNACK%20655&fontSize=90&animation=fadeIn&fontColor=a245d1)
 
 
-### Hi there 👋
+### Hello? 👋
 ![snack655's GitHub stats](https://github-readme-stats.vercel.app/api?username=snack655&theme=buefy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snack655)](https://github.com/anuraghazra/github-readme-stats)
 <!--
