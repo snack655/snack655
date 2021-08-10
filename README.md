@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=33135C&height=150&section=header&text=SNACK%20655&fontSize=60&animation=fadeIn&fontColor=D138C8)
 <h3 align="center"><b>👋 Hi? I'm snack655!</b></h3>
+  <div align = center >
+   My dream is to become an artist who changes the world.🌏</br>
+   I want to change the world with development.💡
+</div>
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
