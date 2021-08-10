@@ -22,7 +22,9 @@
 </br>
 </br>
 
-  ![snack655's github stats](https://github-readme-stats.vercel.app/api?username=snack655&theme=vue&show_icons=true&hide_border=true)
+  ![snack655's github stats](https://github-readme-stats.vercel.app/api?username=snack655&theme=tokyonight&show_icons=true)
+
+
 <br>
   
   
