@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=SNACK%20655&fontSize=60&animation=fadeIn&fontColor=a245d1)
+![header](https://capsule-render.vercel.app/api?type=slice&color=33135C&height=150&section=header&text=SNACK%20655&fontSize=60&animation=fadeIn&fontColor=D138C8)
 <h3 align="center"><b>👋 Hi? I'm snack655!</b></h3>
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -28,7 +28,7 @@
 <br>
   
   
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=33135C&height=150&section=footer)
 
 
 
