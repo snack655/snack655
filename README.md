@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=33135C&height=150&section=header&text=SNACK%20655&fontSize=60&animation=fadeIn&fontColor=D138C8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000033&height=200&section=header&text=SNACK%20655&fontSize=60&animation=fadeIn&fontColor=FFFF00)
 <h3 align="center"><b>👋 Hi? I'm snack655!</b></h3>
   <div align = center >
    My dream is to become an artist who changes the world.🌏</br>
@@ -32,7 +32,7 @@
 <br>
   
   
-![footer](https://capsule-render.vercel.app/api?type=slice&color=33135C&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000033&height=150&section=footer)
 
 
 
