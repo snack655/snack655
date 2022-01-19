@@ -29,3 +29,5 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snack655&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
