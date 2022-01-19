@@ -1,41 +1,31 @@
-<div align = center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&color=%23F7B122&center=true&vCenter=true&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%B5%9C%EB%AF%BC%EC%9E%AC%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)<p>
+  <a href="https://ssnack655.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Tvtime&logoColor=white"/></a>
+  <a href="mailto:cmjcmj1230@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cmjcmj1230@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/snack655/" target="_blank"><img src="https://img.shields.io/badge/MinjaeChoi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/minjae_1230/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000033&height=200&section=header&text=SNACK%20655&fontSize=60&animation=fadeIn&fontColor=FFFF00)
-<h3 align="center"><b>👋 Hi? I'm snack655!</b></h3>
-  <div align = center >
-   My dream is to become an artist who changes the world.🌏</br>
-   I want to change the world with development.💡
-</div>
-</br>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
-</br>
-</br>
-<h3 align="center"><b>👉 ME 👈</b></h3>
-</br>
-<p align="center">
-<a href="https://www.instagram.com/minjae_1230/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minjae_1230/"/></a>&nbsp
-  <a href="mailto:cmjcmj1230@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cmjcmj1230@gmail.com"/></a>&nbsp
-   <a href="https://ssnack655.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tvtime&logoColor=white&link=https://ssnack655.tistory.com/"/></a>
-</br>
-</br>
-</br>
+<p>
+  👋&nbsp; 안녕하세요! 저는 <b>안드로이드 앱 개발자입니다.</b>📱<br/>
+  현재 대구소프트웨어마이스터고등학교에 재학 중입니다. 🏫<br/><br/>
+  항상 끊이 없이 배우며 성장하고 있습니다. 💪<br/>
+  세상을 더욱 좋게 만들 혁신적인 사람이 되고 싶습니다! 🌏 <br/><br/>
+</p>
 
-  ![snack655's github stats](https://github-readme-stats.vercel.app/api?username=snack655&theme=tokyonight&show_icons=true)
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-3178C6?style=flat-square&logo=C&logoColor=white"/>
+</p>
 
-
-<br>
-  
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=000033&height=150&section=footer)
-
-
-
-
-
-
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
+</p>
