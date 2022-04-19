@@ -25,8 +25,8 @@
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Coroutine-B7178C?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
 </p>
 
